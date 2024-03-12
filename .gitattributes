@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+*.css linguist-language=python
+=======
+# this drop notebooks from GitHub language stats
+*.ipynb linguist-vendored
+>>>>>>> 7f51429... first commit
